@@ -1,0 +1,15 @@
+.simeditor-view-container {
+  position: absolute;
+  overflow: hidden;
+  width: 1e6px;
+  height: 1e6px;
+}
+
+.simeditor-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
